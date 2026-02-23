@@ -1,15 +1,19 @@
-############################
+------------------------------
 Temporary Site Shutdown
-############################
+------------------------------
 
-Our website is currently offline while we perform essential maintenance and conduct a security review.
+Our website (www.tiegh.com) is currently offline while we perform essential maintenance and refinement.
 
-This temporary shutdown is part of our commitment to ensuring:
+This temporary pause is part of our commitment to ensuring:
 - reliable performance,
-- a stable user experience, and
-- the highest level of safety for all visitors.
+- a seamless experience, and
+- the highest level of quality for all visitors.
 
 There is no action required from you at this time.  
-We will restore full access as soon as our checks are complete.
+We are working hard to get the site up and running as soon as possible, and we expect full access to return soon.
 
-Thank you for your patience and understanding.
+
+
+Thank you for your patience and continued support.
+
+  - TIEGH
