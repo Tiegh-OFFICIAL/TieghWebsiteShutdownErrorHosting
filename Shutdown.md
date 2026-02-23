@@ -1,4 +1,6 @@
-# 🚧 Temporary Site Shutdown
+############################
+Temporary Site Shutdown
+############################
 
 Our website is currently offline while we perform essential maintenance and conduct a security review.
 
